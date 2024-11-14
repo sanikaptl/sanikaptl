@@ -1,11 +1,11 @@
 # 💫 About Me:
 **Hi, I’m Sanika!** 👋<br>I’m a Associate Product Manager with a strong background in technology, machine learning, and data-driven problem-solving. I’m passionate about continuous learning and creating impactful solutions. Here’s a quick snapshot of what I’m currently doing and where I’m headed:<br><be>
 
-🌱 Currently:<br><br>	•	Learning: Exploring advanced topics in Machine Learning and AI to enhance my skills.<br>	•	Working On: Developing innovative products at Staunch, while working on ML and data analysis projects to improve my technical expertise.<br><be>
+🌱 ##Currently:<br><br>	•	Learning: Exploring advanced topics in Machine Learning and AI to enhance my skills.<br>	•	Working On: Developing innovative products at Staunch, while working on ML and data analysis projects to improve my technical expertise.<br><be>
 
-🚀 What I’m Looking For:<br><br>	•	Collaborative Projects: Open to collaborating on ML, AI, and data analysis projects.<br>	•	Opportunities: Exploring roles in product management, data science, or ML engineering to combine my skills in tech and product development.<br><be>
+🚀 ##What I’m Looking For:<br><br>	•	Collaborative Projects: Open to collaborating on ML, AI, and data analysis projects.<br>	•	Opportunities: Exploring roles in product management, data science, or ML engineering to combine my skills in tech and product development.<br><be>
 
-🔧 Skills:<br><br>
+🔧 ##Skills:<br><br>
 •	Product Management: Agile methodologies, product lifecycle management, roadmap planning, user stories, backlog prioritization, cross-functional team collaboration, sprint planning, stakeholder management. <br>
 •	UX Design & Research: User-centered design, wireframing, prototyping, user flow diagrams, A/B testing, usability testing, journey mapping, user research, empathy mapping, and design thinking. <br>
 •	Data Analysis & Insights: Data-driven decision making, A/B testing analysis, KPIs, user behavior analysis, market research, competitive analysis, and customer feedback synthesis. <br>
