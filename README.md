@@ -6,12 +6,7 @@
 🚀 What I’m Looking For:<br><br>	•	Collaborative Projects: Open to collaborating on ML, AI, and data analysis projects.<br>	•	Opportunities: Exploring roles in product management, data science, or ML engineering to combine my skills in tech and product development.<br><be>
 
 🔧 Skills:<br><br>
-•	Product Management: Agile methodologies, product lifecycle management, roadmap planning, cross-functional team collaboration, sprint planning, stakeholder management. <br>
-•	UX Design & Research: User-centered design, wireframing, prototyping, user flow diagrams, A/B testing, usability testing<br>
-•	Data Analysis & Insights: Data-driven decision making, KPIs, market research, competitive analysis, and customer feedback synthesis. <br>
-•	Software Engineering & Development: Full-stack development (Frontend: HTML, CSS, JavaScript; Backend: Node.js, Python), version control (Git), database management (SQL, NoSQL), API integrations<br>
-•	Machine Learning & AI<br>
-•	Communication & Leadership: Strong written and verbal communication, team leadership, client-facing presentations, product demos, and negotiating with stakeholders. <br><be>
+Product Management | UX Design & Research | Data Analysis | Software Engineering & Development | Machine Learning & AI | Communication & Leadership <be><be>
 
 
 💡 Fun Facts:<br><br>	•	I once worked as a Design and Outreach Lead for Google Developer Student Clubs, which sparked my love for tech and innovation!<br>	•	I run a digital store selling Notion templates and icon designs—check it out for some creative inspiration!<br>	•	I love exploring interior design, especially creating my own home design concepts!<br>	•	Traveling to new places is my passion—looking forward to my first self-planned trip to Germany with my friends next year!<br>	•	I have a strong interest in neuroscience—studying it for personal growth, not just professional purposes.<br>
